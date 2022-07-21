@@ -2,4 +2,4 @@
 
 ## Spring
 
-* [BeanFactory](README.md)
+* [Bean Scope](README.md)
